@@ -30,5 +30,8 @@ int main()
 	std::cout << "1" << std::endl;
 	std::cout << "0" << std::endl;
 
+	std::cout << "Top Five Games" << std::endl;
+	std::cout << "1.Halo\n2.Zelda\n3.Naruto\n4.Dragon Ball\n5.Slime Rancher\n" << std::endl;
+
 	system("pause");
 }
